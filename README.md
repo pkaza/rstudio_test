@@ -1,2 +1,4 @@
-# rstudio_test
-This is a repository to test RStudio
+# RR project in RStudio
+RR workshop RStudio + Git repository
+
+My first commit to GitHub with R
